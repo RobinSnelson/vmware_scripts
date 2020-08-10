@@ -1,0 +1,4 @@
+﻿VMName,Domain,IPAddress,Subnetmask,defaultGateway,DNSServer,Template,Cores,Memory,SysSize,OStype
+Cent10,heliostech.local,192.168.1.180,255.255.255.0,192.168.1.1,192.168.1.115,CentosTemplate,2,4,60,2
+Cent11,heliostech.local,192.168.1.181,255.255.255.0,192.168.1.1,192.168.1.115,CentosTemplate,2,4,60,2
+
