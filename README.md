@@ -1,1 +1,1 @@
-# vmwaredevelopment
+# Scripts for VMWare
